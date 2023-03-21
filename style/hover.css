@@ -1,0 +1,38 @@
+#geo:hover,
+#eng:hover {
+	color: #b12634;
+	cursor: pointer;
+}
+
+button:hover {
+	background: #c0b5b1;
+	color: #b12634;
+	cursor: pointer;
+}
+
+.container div:hover {
+	cursor: pointer;
+	transition: ease-out 1s;
+	box-shadow: inset 400px 0 0 0 #b12634;
+}
+
+.hyplinks i:hover {
+	cursor: pointer;
+	color: #b12634;
+	border: none;
+	border-radius: 50%;
+	background: #b08760;
+}
+
+.item_img_container:hover .hovercontainer {
+	opacity: 1;
+}
+
+.item_img_container:hover .hovercontainer {
+	height: 100%;
+}
+
+#myBtn:hover {
+	background: #b12634;
+	color: white;
+}

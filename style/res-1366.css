@@ -1,0 +1,44 @@
+@media (max-width: 1366px) {
+	.aboutus_header_backHome .container span {
+		font-family: bold;
+		font-size: 16px;
+		width: 14px;
+	}
+
+	.project_leftside {
+		width: 10%;
+	}
+
+	.post_container {
+		width: 100%;
+	}
+
+	.aboutus_header_backHome {
+		width: 200px;
+	}
+	.aboutus_header_cover_container img,
+	.aboutus_header_cover_info {
+		width: calc(100% - 300px);
+	}
+
+	.aboutus_header_info_center {
+		width: auto;
+	}
+	.img_btn {
+		font-size: 2rem;
+		line-height: 65px;
+		width: 122px;
+	}
+	.active_btn .slider_info {
+		font-size: 2rem;
+		padding: 15px 50px;
+	}
+
+	.infra_main:first-child {
+		margin-top: 50px;
+	}
+
+	.map_container{
+		margin-top: -40px;
+	}
+}
